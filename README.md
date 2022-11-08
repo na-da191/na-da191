@@ -7,10 +7,10 @@ Hello, I am Arbib Nada  a final year undergraduate from National school For Comp
 
 ### About Me 
 - 🌱 I’m currently learning  Time Series Forecasting , deep Reinforcment Learning and Big Data Analysis 
-- 👯 I’m looking to collaborate on NLP and RL projects 
-- 🤔 I’m looking an end of study internship in Machine Learning/ Data Science
+- 🤔 I’m looking for an end of study internship in Machine Learning/ Data Science
 - 💬 Ask me about Machine Learning , Deep Learning , Data preprocessing and Data Science related topics
 - 📫 How to reach me: nadaarbib18@gmail.com
+- 👯 I’m looking to collaborate on NLP and RL projects 
 - 😄 Pronouns: She/Her or TeamWorker
 - ⚡ Fun fact: I love food 
 
