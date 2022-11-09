@@ -8,11 +8,11 @@ Hello, I am Arbib Nada  a final year undergraduate from National school For Comp
 ### About Me 
 - 🌱 I’m currently learning  Time Series Forecasting , deep Reinforcment Learning and Big Data Analysis 🥰
 - 🤔 I’m looking for an end of study internship in Machine Learning/ Data Science
-- 💬 Ask me about Machine Learning , Deep Learning , Data preprocessing and Data Science related topics
+- 💬 Ask me about Machine Learning , Deep Learning  and Data Science related topics
 - 📫 How to reach me: nadaarbib18@gmail.com
 - 👯 I’m looking to collaborate on NLP and RL projects 
 - 😄 Pronouns: She/Her or TeamWorker😊
-- ⚡ Fun fact: I love food 😎
+- ⚡ Fun fact: Horror movies make me laugh out loud 😎
 
 ### Skills
 <img src='https://raw.githubusercontent.com/na-da191/na-da191/24222eac8802ed0bb08fc4a27f4543a6f2d8941b/Python-Dark.svg' alt='python' height='40'> <img src='https://raw.githubusercontent.com/na-da191/na-da191/24222eac8802ed0bb08fc4a27f4543a6f2d8941b/R-Dark.svg' alt='R' height='40'> <img src='https://raw.githubusercontent.com/na-da191/na-da191/24222eac8802ed0bb08fc4a27f4543a6f2d8941b/Java-Dark.svg' alt='Java' height='40'> <img src='https://raw.githubusercontent.com/na-da191/na-da191/b648df3eebaebddf5396039ee7e01acb682e3544/C.svg' alt='C' height='40'> <img src='https://raw.githubusercontent.com/na-da191/na-da191/def702d4611f38544469e7cda923f5ed6d572d43/TensorFlow-Dark.svg' alt='tensorFlow' height='40'> <img src='https://raw.githubusercontent.com/na-da191/na-da191/def702d4611f38544469e7cda923f5ed6d572d43/PyTorch-Dark.svg' alt='Pytorch' height='40'> <img src='https://raw.githubusercontent.com/na-da191/na-da191/def702d4611f38544469e7cda923f5ed6d572d43/MongoDB.svg' alt='MongoDb' height='40'>
