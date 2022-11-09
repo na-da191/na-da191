@@ -3,7 +3,7 @@
 ![Machine Learning Engineer | Data Scientist](https://github.com/na-da191/na-da191/blob/main/Welcome%20To%20My%20Github%20Profile%20!%20(1).png?raw=true)
 
 #### Machine Learning Engineer | Data Scientist
-Hello, I am Arbib Nada  a final year undergraduate from National school For Computer Science--ENSIAS in Rabat Morocco .I'm a  passionate self-learner  and an obsessed with Data science.
+Hello, I am Arbib Nada  a Senior from National school For Computer Science--ENSIAS in Rabat Morocco .I'm a  passionate self-learner  and an obsessed with Data science.
 
 ### About Me 
 - 🌱 I’m currently learning  Time Series Forecasting , deep Reinforcment Learning and Big Data Analysis 🥰
