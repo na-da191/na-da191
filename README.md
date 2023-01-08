@@ -6,11 +6,10 @@
 Hello, I am Arbib Nada  a Senior from National school For Computer Science--ENSIAS in Rabat Morocco .I'm a  passionate self-learner  and an obsessed with Data science.
 
 ### About Me 
-- 🌱 I’m currently learning  Time Series Forecasting , deep Reinforcment Learning and Big Data Analysis 🥰
+- 🌱 I’m currently learning  Time Series Forecasting , deep Reinforcment Learning , Big Data Analysis and Survival Analysis 🥰
 - 🤔 I’m looking for an end of study internship in Machine Learning/ Data Science
 - 💬 Ask me about Machine Learning , Deep Learning  and Data Science related topics
 - 📫 How to reach me: nadaarbib18@gmail.com
-- 👯 I’m looking to collaborate on NLP and RL projects 
 - 😄 Pronouns: She/Her or TeamWorker😊
 - ⚡ Fun fact: Horror movies make me laugh out loud 😎
 
